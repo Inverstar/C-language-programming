@@ -14,4 +14,45 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Hello.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="第二个C++程序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="输入字符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="变量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符三角形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="001输出第二个整数.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="002字符菱形.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="003打印ASCII码.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="004打印字符.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="005整型数据类型存储空间大小.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="006浮点型数据类型存储空间大小.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
