@@ -14,4 +14,33 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="源.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="读入所有字符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计算球的体积.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="007对齐输出.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="008输出保留12位小数的浮点数.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="​009空格分隔输出.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="‎010计算球的体积.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="‍011大象喝水.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
