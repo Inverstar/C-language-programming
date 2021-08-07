@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-/*int main()
+int main()
 {
 	int n;
 	cin >> n;
@@ -8,4 +8,4 @@ using namespace std;
 		if (n % i == 0)
 			cout << i << endl;
 	return 0;
-} */
+}

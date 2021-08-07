@@ -14,4 +14,69 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="源.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="012奇偶数判断.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="014点和正方形的关系.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="013求一元二次方程的根.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="年份判断.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="连续输出26个字母.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求因子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="取因法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="while的使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="牛顿迭代法求根.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="精度控制.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="do-while应用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="三角形判断.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最大跨度值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="015苹果和虫子2.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="016简单计算器.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="017求整数的和与均值.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="019奥运奖牌计数.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="020乘方计算.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="018整数序列的元素最大跨度值.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="021鸡尾酒疗法.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
