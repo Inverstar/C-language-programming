@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include<math.h>
-
 double eps = 1e-7;
 int main()
 {
@@ -16,7 +15,7 @@ int main()
 	else if (de - 0 > -eps && de - 0 < eps)
 	{
 		if(b - 0 > -eps && b - 0 < eps)
-			printf("x1=x2=%.5lf", 0);
+			printf("x1=x2=%.5lf", 0.0);
 		else
 			printf("x1=x2=%.5lf", -b/(2*a));
 	}
@@ -26,7 +25,7 @@ int main()
 		Re = -b / (2 * a);
 		Im = sqrt(-de) / (2 * a);
 		if (b - 0 > -eps && b - 0 < eps)
-			printf("x1=%.5lf+%.5lfi;x2=%.5lf-%.5lfi", 0, Im,0,Im);
+			printf("x1=%.5lf+%.5lfi;x2=%.5lf-%.5lfi", 0.0, Im,0.0,Im);
 		else
 			printf("x1=%.5lf+%.5lfi;x2=%.5lf-%.5lfi", Re, Im, Re, Im);
 	}
