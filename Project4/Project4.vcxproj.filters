@@ -57,6 +57,18 @@
     <ClCompile Include="023正常血压.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
+    <ClCompile Include="024数字反转.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="025求特殊自然数.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="026雇佣兵.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="027数字统计.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="输入.txt">

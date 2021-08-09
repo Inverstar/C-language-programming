@@ -78,5 +78,8 @@
     <ClCompile Include="021鸡尾酒疗法.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
+    <ClCompile Include="013-1使用C实现.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
