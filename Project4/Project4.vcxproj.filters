@@ -14,4 +14,35 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="break语句.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="兄弟数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="continue语句.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf的使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="无结束标记输入.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="freopen重定向输入.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="freopen_s的使用.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="输入.txt">
+      <Filter>源文件</Filter>
+    </Text>
+    <Text Include="输出.txt">
+      <Filter>源文件</Filter>
+    </Text>
+  </ItemGroup>
 </Project>
