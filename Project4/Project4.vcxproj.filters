@@ -36,6 +36,27 @@
     <ClCompile Include="freopen_s的使用.cpp">
       <Filter>头文件</Filter>
     </ClCompile>
+    <ClCompile Include="乘方计算.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="输出最大值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="斐波那契数列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="阶乘之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="输出不大于n的质数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="022角谷猜想.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="023正常血压.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="输入.txt">
