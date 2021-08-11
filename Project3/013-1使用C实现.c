@@ -4,7 +4,7 @@ double eps = 1e-7;
 int main()
 {
 	double a, b, c, de, x1, x2;
-	scanf("%lf%lf%lf", &a, &b, &c);
+	scanf_s("%lf%lf%lf", &a, &b, &c);
 	de = b * b - 4 * a * c;
 	if (de > 0)
 	{
