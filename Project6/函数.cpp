@@ -3,6 +3,14 @@ using namespace std;
 //函数 定义 调用 声明
 int main()
 {
+	int an(int, int);
+	int ai(int );
+	ai(~123);
+	ai(123);
+	ai(-123);
+	cout<<'\n'<<an(-1, 1)<<endl;
+	return 0;
+
 	int 位运算();
 	位运算();
 	return 0;

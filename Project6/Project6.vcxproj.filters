@@ -48,5 +48,29 @@
     <ClCompile Include="位运算.cpp">
       <Filter>头文件</Filter>
     </ClCompile>
+    <ClCompile Include="a的第n位.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="035Pell数列.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="036求最大公约数.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="037第i位替换.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="038第i位取反.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="039左边i位取反.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="035-1.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="左i取反.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

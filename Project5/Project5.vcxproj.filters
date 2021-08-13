@@ -63,5 +63,8 @@
     <ClCompile Include="四舍五入.cpp">
       <Filter>头文件</Filter>
     </ClCompile>
+    <ClCompile Include="033-1-bolin.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
