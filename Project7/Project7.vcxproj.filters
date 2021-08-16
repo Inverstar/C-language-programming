@@ -18,5 +18,44 @@
     <ClCompile Include="源.cpp">
       <Filter>头文件</Filter>
     </ClCompile>
+    <ClCompile Include="字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串示例1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="源1.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="读入字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串库函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="源2.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strlen.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="判断子串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="040统计数字字符个数.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="041找第一个只出现一次的字符.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="042石头剪刀布.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="043最长最短单词.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="044密码翻译.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

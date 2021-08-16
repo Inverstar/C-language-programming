@@ -139,7 +139,26 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="040统计数字字符个数.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="041找第一个只出现一次的字符.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="042石头剪刀布.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="043最长最短单词.cpp" />
+    <ClCompile Include="044密码翻译.cpp" />
+    <ClCompile Include="strlen.cpp" />
+    <ClCompile Include="判断子串.cpp" />
+    <ClCompile Include="字符串.cpp" />
+    <ClCompile Include="字符串库函数.cpp" />
+    <ClCompile Include="字符串示例1.cpp" />
     <ClCompile Include="源.cpp" />
+    <ClCompile Include="源1.cpp" />
+    <ClCompile Include="源2.cpp" />
+    <ClCompile Include="读入字符串.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

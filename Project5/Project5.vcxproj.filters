@@ -66,5 +66,8 @@
     <ClCompile Include="033-1-bolin.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
+    <ClCompile Include="034-C.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
