@@ -1,12 +1,16 @@
-#include <iostream>
+ï»¿#include <iostream>
 #include <cstdio>
 using namespace std;
 constexpr auto N = 1000;
 int main()
 {
-	/*string m1();
+	int T044();
+	T044();
+	return 0;
+
+	string m1();
 	m1();
-	return 0;*/
+	return 0;
 
 	int T043();
 	T043();
@@ -22,8 +26,8 @@ int main()
 
 	
 
-	int ×Ö·û´®Ê¾Àý1();
-	×Ö·û´®Ê¾Àý1();
+	int å­—ç¬¦ä¸²ç¤ºä¾‹1();
+	å­—ç¬¦ä¸²ç¤ºä¾‹1();
 	return 0;
 
 	int m();

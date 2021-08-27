@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 #include<cstdio>
 #include<cstring>
 using namespace std;
@@ -43,6 +43,8 @@ int T043()
     return 0;
 }
 
-/*����1�о��ӣ�������200�����ʣ�ÿ�����ʳ��Ȳ�����100����
-ֻ������ĸ���ո�Ͷ��š�����������һ����������ĸ���ɣ��ո�Ͷ��Ŷ��ǵ��ʼ�ļ����
-�������1����ĵ��ʺ͵�1����̵���*/
+//d3e5526ae96d9ad347938dcef7a023b55c7041e0ebcecbf1f59783ed23aeca7f
+
+/*输入1行句子（不多于200个单词，每个单词长度不超过100），
+只包含字母、空格和逗号。单词由至少一个连续的字母构成，空格和逗号都是单词间的间隔。
+试输出第1个最长的单词和第1个最短单词*/
