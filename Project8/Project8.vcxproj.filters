@@ -14,4 +14,72 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="源.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针运算示例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Swap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针与数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="颠倒数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串操作库函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strtok_s.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="memset.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="memcpy.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="函数指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="046指针练习-输出Tesla.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="047指针练习-ForEach.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="048指针练习-Memcpy1.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="049指针练习-double.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="050指针练习-Memcpy2.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="051指针练习-MyMax.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="052指针练习-指向指针的指针.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="053指针练习-SwapMemory.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="045指针练习-输出Hello.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
