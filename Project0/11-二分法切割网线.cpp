@@ -15,8 +15,6 @@ int main()
     double b;
     int i;
     int left = 0, right = 0, mid;
-    FILE* f;
-    freopen_s(&f, "in(15).txt", "r", stdin);
     cin >> n >> k;
     for (i = 1; i <= n; i++)
     {

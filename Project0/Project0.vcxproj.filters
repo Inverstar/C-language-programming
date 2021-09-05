@@ -69,12 +69,18 @@
     <ClCompile Include="二分法解网线.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="12-二分法找元素.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="in(7).txt">
       <Filter>资源文件</Filter>
     </Text>
     <Text Include="in(15).txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="IN.txt">
       <Filter>资源文件</Filter>
     </Text>
   </ItemGroup>
