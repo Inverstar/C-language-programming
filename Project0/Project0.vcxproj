@@ -185,18 +185,32 @@
     <ClCompile Include="13数字1的个数.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="14判断元素是否存在.cpp" />
+    <ClCompile Include="14判断元素是否存在.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Cstdio.cpp" />
+    <ClCompile Include="Main.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="mycopy.cpp" />
     <ClCompile Include="二分法解网线.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="二级制文件读写1.cpp" />
+    <ClCompile Include="二进制文件读写.cpp" />
+    <ClCompile Include="二进制文件读写2.cpp" />
     <ClCompile Include="源.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="读取文本文件.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="IN.txt" />
     <Text Include="in(15).txt" />
     <Text Include="in(7).txt" />
+    <Text Include="s.dat">
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</DeploymentContent>
+    </Text>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

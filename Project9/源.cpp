@@ -5,6 +5,22 @@
 using namespace std;
 int main()
 {
+	void 单词();
+	单词();
+	return 0;
+
+	void Map();
+	Map();
+	return 0;
+
+	void Multimap();
+	Multimap();
+	return 0;
+
+	void Set();
+	Set();
+	return 0;
+
 	int GMultiset();
 	GMultiset();
 	return 0;

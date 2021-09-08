@@ -173,14 +173,18 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="Func.cpp" />
+    <ClCompile Include="Map.cpp" />
+    <ClCompile Include="Multimap.cpp" />
+    <ClCompile Include="Set的用法.cpp" />
     <ClCompile Include="Struct_Rule.cpp" />
+    <ClCompile Include="单词词频.cpp" />
     <ClCompile Include="平衡二叉树.cpp" />
     <ClCompile Include="冒泡排序.cpp" />
     <ClCompile Include="排序规则下的multiset.cpp" />
     <ClCompile Include="插入排序.cpp" />
     <ClCompile Include="测试.cpp" />
     <ClCompile Include="源.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="结构数组排序.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
